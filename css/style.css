@@ -266,6 +266,7 @@ footer{
     }
     .hero__paragraph{
         width: 70%;
+        font-size: 18px;
     }
 
     .cta{
@@ -289,6 +290,7 @@ footer{
     }
     .section__texts{
         width: 45%;
+        font-size: 18px;
         margin-top: 10px;
         margin-left: 10px;
         margin-right: 10px;
