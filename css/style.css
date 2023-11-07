@@ -260,6 +260,15 @@ footer{
 
 }
 
+.cta:active{
+    background-color: var(--very-dark-cyan);
+}
+
+.footer__cta:active{
+    background-color: var(--very-dark-cyan);
+}
+
+
 @media(min-width:760px){
     .hero__main{
         font-size: 40px;
